@@ -1,5 +1,6 @@
 # CarbonTune Iridium
-The current, up to date version of CarbonTune Iridium. Proudly built with the Glitch.com platform.
+The current, up to date version of CarbonTune Iridium. Proudly built with the Glitch.com platform. CarbonTune Iridium is the HTML-based controller app made with Festify. It allows your guests to add songs to the playlist, while also adding the ability to make it your own or turn off requests when you wanna change the vibe.
+Our website is coming soon, stay tuned for more great details about what CarbonTune can do.
 
 Download the code and follow the instructions in SETUP.md and config/main.js to get started.
 
